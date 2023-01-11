@@ -1,2 +1,2 @@
 # Python-Porjects
-lists of porjects
+List of projects did for high school python class
